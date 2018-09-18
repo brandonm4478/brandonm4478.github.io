@@ -4,7 +4,7 @@
 }
 
 @font-face{
-  font-family: 'Star Jedi';
+  font-family: 'Starjedi';
   src: url('../fonts/Starjedi.ttf') format("opentype");
 }
 
@@ -13,7 +13,7 @@ body {
   width: 70%;
 }
 nav ul, footer ul {
-  font-family:'Star Jedi';
+  font-family:'Starjedi';
   padding: 0px;
   list-style: none;
   font-weight: bold;
@@ -31,7 +31,7 @@ a:hover {
 }
 h1 {
   font-size: 3em;
-  font-family:'Star Jedi';
+  font-family:'Starjedi';
 }
 p {
   font-size: 1.5em;
