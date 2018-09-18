@@ -1,3 +1,10 @@
+css 
+
+@font-face{
+    font-family: 'Nightmare Codehack';
+    src: url(../fonts/Nightmare Codehack.otf);
+}
+
 body {
     margin: 60px auto;
     width: 70%;
