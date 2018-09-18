@@ -1,50 +1,48 @@
-css 
-
 @font-face{
-    font-family: 'Nightmare Codehack';
-    src: url(../fonts/Nightmare Codehack.otf);
+  font-family: 'Nightmare Codehack';
+  src: url('../fonts/Nightmare Codehack.otf') format("opentype");
 }
 
 body {
-    margin: 60px auto;
-    width: 70%;
+  margin: 60px auto;
+  width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Nightmare Codehack', 'Nightmare Codehack', 'Verdana';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+  font-family:'Nightmare Codehack';
+  padding: 0px;
+  list-style: none;
+  font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+  display: inline;
+  margin-right: 20px;
 }
 a {
-    text-decoration: none;
-    color: #0095FF;
+  text-decoration: none;
+  color: #0095FF;
 }
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Nightmare Codehack';
+  font-size: 3em;
+  font-family:'Nightmare Codehack';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #00000;
+  font-size: 1.5em;
+  line-height: 1.4em;
+  color: #00000;
 }
 footer {
-    border-top: 1px solid #50B6E;
-    font-size: .8em;
+  border-top: 1px solid #50B6E;
+  font-size: .8em;
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+  margin: 20px auto 40px; 
+  font-size: 1.5em;
 }
 
 ul.posts li {
-    list-style: none;
+  list-style: none;
 }
