@@ -1,11 +1,11 @@
 @font-face{
-  font-family: 'Nightmare Codehack';
-  src: url('../fonts/Nightmare Codehack.otf') format("opentype");
+  font-family: 'Star Jedi';
+  src: url('../fonts/Starjedi.ttf') format("truetype");
 }
 
 @font-face{
-  font-family: 'Star Jedi';
-  src: url('../fonts/Starjedi.ttf') format("truetype");
+  font-family: 'Transformers Movie';
+  src: url('../fonts/Transformers Movie.ttf') format("truetype");
 }
 
 body {
@@ -13,7 +13,7 @@ body {
   width: 70%;
 }
 nav ul, footer ul {
-  font-family:'Nightmare Codehack';
+  font-family:'Transformers Movie';
   padding: 0px;
   list-style: none;
   font-weight: bold;
@@ -31,11 +31,11 @@ a:hover {
 }
 h1 {
   font-size: 3em;
-  font-family:'Star Jedi';
+  font-family:'Transformers Movie';
 }
 p {
   font-size: 1.5em;
-  font-family;'Helvetica';
+  font-family;'Verdana';
   line-height: 1.4em;
   color: #00000;
 }
