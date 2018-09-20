@@ -2,3 +2,5 @@ name: Brandon Morgenstein
 markdown: kramdow
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-hacker
+title: [Brandon's Website]
+description: [A repository for my school.]
