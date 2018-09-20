@@ -1,0 +1,21 @@
+	<title>Brandon Morgenstein's Blog</title>
+	<link href="http://brandonm4478.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://brandonm4478.github.io/blog"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://brandonm4478.github.io/blog</id>
+	<author>
+		<name>Brandon Morgenstein</name>
+		<email>brandonm4478@afsenyc.org</email>
+	</author>
+
+	{% for post in site.posts %}
+		<entry>
+			<title>{{ post.title }}</title>
+			<link href="http://brandonm4478.github.io{{ post.url }}"/>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<id>http://brandonm4478.github.io{{ post.id }}</id>
+			<content type="html">{{ post.content | xml_escape }}</content>
+		</entry>
+	{% endfor %}
+
+</feed>
