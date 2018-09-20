@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brandon's First Post"
-date: 2018-09-18
+date: 2018-09-20
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+It took a bit, but I finally finished this website. I hope to use it to learn CSS and HTML, and expand my knowledge in these languages.
