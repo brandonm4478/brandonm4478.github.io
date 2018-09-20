@@ -1,5 +1,5 @@
 name: Brandon Morgenstein	
-markdown: kramdow
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-hacker
 title: [Brandon's Website]
