@@ -1,11 +1,11 @@
 @font-face{
-  font-family: 'Star Jedi';
-  src: url('../fonts/Starjedi.ttf') format("truetype");
+  font-family: 'Kremlin';
+  src: url('../fonts/kremlin.ttf') format("truetype");
 }
 
 @font-face{
-  font-family: 'Transformers Movie';
-  src: url('../fonts/Transformers Movie.ttf') format("truetype");
+  font-family: 'Doctor Glitch';
+  src: url('../fonts/Doctor Glitch.ttf') format("opentype");
 }
 
 body {
@@ -14,7 +14,7 @@ body {
   background-color: white;
 }
 nav ul, footer ul {
-  font-family:'Star Jedi';
+  font-family:'Kremlin';
   padding: 0px;
   list-style: none;
   font-weight: bold;
@@ -33,7 +33,7 @@ a:hover {
 h1 {
   font-size: 3em;
   color: #00000;
-  font-family:'Transformers Movie';
+  font-family:'Doctor Glitch';
 }
 p {
   font-size: 1.5em;
