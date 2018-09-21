@@ -11,7 +11,7 @@
 body {
   margin: 60px auto;
   width: 70%;
-  background-image: url("starwarsbackgrround");
+  background-image: url('starwarsbackgrround');
 }
 nav ul, footer ul {
   font-family:'Kremlin';
