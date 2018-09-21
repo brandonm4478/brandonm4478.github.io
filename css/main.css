@@ -4,8 +4,8 @@
 }
 
 @font-face{
-  font-family: 'Doctor Glitch';
-  src: url('../fonts/Doctor Glitch.otf') format("opentype");
+  font-family: 'Transformers Movie';
+  src: url('../fonts/Doctor Glitch.ttf') format("truetype");
 }
 
 body {
@@ -33,7 +33,7 @@ a:hover {
 h1 {
   font-size: 3em;
   color: #00000;
-  font-family:'Kremlin';
+  font-family:'Transformers Movie';
 }
 p {
   font-size: 1.5em;
