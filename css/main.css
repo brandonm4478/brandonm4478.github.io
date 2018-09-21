@@ -32,17 +32,17 @@ a:hover {
 }
 h1 {
   font-size: 3em;
-  color: #FFFFF;
+  color: #FFFFFF;
   font-family:'Transformers Movie';
 }
 p {
   font-size: 1.5em;
   font-family:'Verdana';
   line-height: 1.4em;
-  color: #FFFFF;
+  color: #FFFFFF;
 }
 footer {
-  border-top: 1px solid #FFFFF;
+  border-top: 1px solid #FFFFFF;
   font-size: .8em;
 }
 
