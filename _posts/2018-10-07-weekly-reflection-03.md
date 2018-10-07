@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Reflection #3"
-date: 2018-09-21
+date: 2018-10-07
 ---
 
 I have had a lot of fun in "Intro to CS" this week, as we are learning many new things.
