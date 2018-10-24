@@ -8,3 +8,5 @@ This week in Intro to CS we went more in depth about creating flags, and we got 
 
 I made the flags for the Holy Roman Empire, Austria-Hungary, German Empire, and Italy. I think they turned out really well, especially the German Empire Flag.
 <img src="https://i.imgur.com/ujIjzx0.png">
+
+I'm not really having many challenges and I'm pushing myself to learn a lot more.
