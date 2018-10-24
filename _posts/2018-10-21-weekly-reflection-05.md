@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Weekly Reflection #1"
-date: 2018-09-21
+title: "Weekly Reflection #5"
+date: 2018-10-24
 ---
 
 This week in Intro to CS we went more in depth about creating flags, and we got to create flags for different countries. We also learned more in-depth techniques for making flags, like ellipses.
