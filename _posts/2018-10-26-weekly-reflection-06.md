@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Reflection #6"
-date: 2018-010-26
+date: 2018-10-26
 ---
 Today marks the first third of the semester being completed (or first sixth of the year). A lot has happened in Computer Science class.
 
