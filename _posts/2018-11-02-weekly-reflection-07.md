@@ -27,6 +27,13 @@ And an example of the function:
   * The third part of the domain, or the *"green"* string is the color of the triangle.
 3. The final part of the string, or the *range*, is what is created when the function is ran.
 
+Below is an example of our function. We made the function gt (green triangle). The contract for it is as follows:
+```racket
+;gt : Number --> Image
+```
+
+You imput a number and out comes a green triangle of that size.
+
 ```racket
 (define (gt size)(triangle size "solid" "green"))
 (gt 50)
