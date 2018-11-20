@@ -80,3 +80,49 @@ code {
     border: thin solid whitesmoke;
     font-family: monospace !important;
 }
+
+}
+.o { /* Operators */
+    color: #F92672;
+}
+.p { /* Brackets */
+    color: whitesmoke;
+}
+.k { /* Type */
+    color: #F92672;
+}
+.kd { /* Declarations */
+    color: #66D9EF;
+    font-style: italic;
+}
+.kr { /* eval? */
+    color: #A6E22E;
+}
+.nf { /* Function Name */
+    color: steelblue;
+}
+.na { /* Identifier */
+    color: whitesmoke;
+}
+.nb { /* Function Names */
+    color: #A6E22E;
+}
+.no { /* # */
+    color: steelblue;
+}
+.nv { /* Function Domain */
+    color: steelblue;
+}
+.nx { /* Paremeters */
+    color: #FD971F;
+    font-style: italic;
+}
+.s, .s2 { /* String */
+    color: #E6DB74;
+}
+.mi { /* Numberic */
+    color: #AE81FF;
+}
+.c1, .cm { /* Comments */
+    color: #75715E;
+}
