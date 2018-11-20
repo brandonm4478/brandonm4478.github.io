@@ -81,13 +81,13 @@ code {
     font-family: monospace !important;
 }
 
-}
 .o { /* Operators */
     color: #F92672;
 }
 .p { /* Brackets */
     color: whitesmoke;
 }
+
 .k { /* Type */
     color: #F92672;
 }
