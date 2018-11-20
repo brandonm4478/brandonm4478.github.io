@@ -7,18 +7,18 @@ This week we reviewed functions and definitions. On Tuesday we practiced definin
 
 We also reviewed how contracts, examples and definitions relate to one another. An example function is:
 
-```racket
+```scheme
 (define (ys size) (star size "solid" "yellow"))
 ```
 The function above creates a star with the chosen size. The contract for the function is as follows.
 
-```racket
+```scheme
 ;ys : Number → Image
 ```
 
 Some examples for the function are as follows:
 
-```
+```scheme
 (ys 50) 
 (ys 75)
 ```
