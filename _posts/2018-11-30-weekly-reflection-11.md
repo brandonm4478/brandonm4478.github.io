@@ -22,7 +22,7 @@ The answers for the question are as follow:
 
 ```
 (a) (define (bill sub-total)
-      (+ (* sub-total 0.0825 sub-total))
+    (+ (* sub-total 0.0825 sub-total))
       
 (b) (+ (* sub-total 0.0825) 82.01))
 
@@ -38,4 +38,12 @@ Before we do anything else, we can rule out answer choice B. We can rule out thi
 
 After that, we can rule out answer choice D. We can rule this answer choice out because the expressions inside the definition does not match up with the expressions inside the question.
 
-This leaves us with answer choices A and C. The correct answer choice would be A. Answer A would be correct because the definition and expressions in the answer match with the definitions and expressions in the question. In addition, the sub-total is changing over all of the expressions, and this is defined as a variable in the definition.
+This leaves us with answer choices A and C. The correct answer choice would be A. Answer A would be correct because the definition and expressions in the answer match with the definitions and expressions in the question. In addition, the sub-total value is changing over all of the expressions, and this is defined as a variable in the definition.
+
+Now that the correct answers have been explained, I will be moving on to the other parts of the question.
+
+This question falls under Mastery Skill 5. Mastery Skill 5 talks about solving problems. It also talks about designing a function, identifying variables, and interpreting test cases.
+
+This question is on the skill level of Practicioner (Level 3). I know that because it is a complex question that takes three or more steps to solve.
+
+The majority of students got this question right (34.9%). The second most chosen answer was answer choice C (19.8%). I think they chose this answer because they didn't read the question carefully and they didn't notice that it has an extra parenthesis.
