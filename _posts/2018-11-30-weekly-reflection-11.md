@@ -12,7 +12,7 @@ The question I am going over is:
 
   (+ (* 19.99 0.825) (19.99))
   (+ (* 82.01 0.0825) 82.01))
-  (+ (* 10.99 0.0825) 10.99))``
+  (+ (* 10.99 0.0825) 10.99))```
   
 The answers for the question are as follow:
 
