@@ -31,3 +31,6 @@ I did not have any questions when I was creating this flag. Everything was prett
 Some problems I had were getting the exact geometry right. Due to the size of the diagrams I had and the size of my paper, I had to do a lot of math to get the values.  
 
 In addition, I sometimes needed to mark points like 0.1 inches, but the ruler I had went by 0.0625 inches. Due to this I wasn't able to get exact measurements, but it was still pretty close to the real thing.
+
+**3. What would you do differently next time?**  
+If I would do this again, I would like to not go as fast (rush less). I would also try and get access to better paper with better colors that could better represent my flag.
