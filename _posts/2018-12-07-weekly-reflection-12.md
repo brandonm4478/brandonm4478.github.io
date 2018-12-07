@@ -13,3 +13,7 @@ My flag is made up of mostly rectangles (union jack flag) and stars (rest of the
 
 The upper right (canton) is made up of the British flag, also known as the Union Jack.
 ![Union Jack](/img/uk1.png)
+
+The Union Jack is made up of three flags. The flag of England (the Red cross on a white background, also known as St. George's Cross), the Scottish flag (white saltire) and the Irish Flag (red saltire). 
+
+The flag of England is the red and white cross in the middle. The Scottish and Irish flags represent the red and white diagonal lines (in that order).
