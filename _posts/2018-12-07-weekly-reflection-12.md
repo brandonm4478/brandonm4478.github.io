@@ -6,7 +6,10 @@ Date: 2018-12-07
 
 # Part 1 - My Flag
 *I am doing the flag of Australia.*
-![Flag of Australia](/img/au.png)
+![Flag of Australia](/img/Flag_of_Australia.svg)
 
 **1. What is your flag geometry?**
 My flag is made up of mostly rectangles (union jack flag) and stars (rest of the flag).
+
+The upper right (canton) is made up of the British flag, also known as the Union Jack.
+![Union Jack](/img/uk1.png)
