@@ -23,5 +23,11 @@ The rest of the flag is made up of different stars. The main star is called the 
 # Part 2 - Questions and Challenges
 *When I was constructing this flag, I had a few challenges.
 
-**1. What are some questions you had?**
+**1. What are some questions you had?**  
 I did not have any questions when I was creating this flag. Everything was pretty straightforward, especially with the diagrams I found.
+
+
+**2. What are some problems you had?**  
+Some problems I had were getting the exact geometry right. Due to the size of the diagrams I had and the size of my paper, I had to do a lot of math to get the values.  
+
+In addition, I sometimes needed to mark points like 0.1 inches, but the ruler I had went by 0.0625 inches. Due to this I wasn't able to get exact measurements, but it was still pretty close to the real thing.
