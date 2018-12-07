@@ -17,3 +17,8 @@ The upper right (canton) is made up of the British flag, also known as the Union
 The Union Jack is made up of three flags. The flag of England (the Red cross on a white background, also known as St. George's Cross), the Scottish flag (white saltire) and the Irish Flag (red saltire). 
 
 The flag of England is the red and white cross in the middle. The Scottish and Irish flags represent the red and white diagonal lines (in that order).
+
+![Australian Flag Black and White Diagram](/img/aus2.png)
+
+The rest of the flag is made up of different stars. The main star is called the Commonwealth star, a 7-pointed star under the Union Jack. Scattered throughout are the 7-pointed Alpha, Beta, Delta and Gamma Crucis stars. There is one 5-pointed star, the Epsilon Cruius.
+
