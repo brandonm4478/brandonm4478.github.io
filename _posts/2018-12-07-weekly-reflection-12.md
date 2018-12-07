@@ -8,7 +8,7 @@ Date: 2018-12-07
 *I am doing the flag of Australia.*
 ![Flag of Australia](/img/Flag_of_Australia.svg)
 
-**1. What is your flag geometry?**
+**1. What is your flag geometry?**  
 My flag is made up of mostly rectangles (union jack flag) and stars (rest of the flag).
 
 The upper right (canton) is made up of the British flag, also known as the Union Jack.
@@ -22,3 +22,4 @@ The flag of England is the red and white cross in the middle. The Scottish and I
 
 The rest of the flag is made up of different stars. The main star is called the Commonwealth star, a 7-pointed star under the Union Jack. Scattered throughout are the 7-pointed Alpha, Beta, Delta and Gamma Crucis stars. There is one 5-pointed star, the Epsilon Cruius.
 
+# Part 2 - Questions and Challenges
