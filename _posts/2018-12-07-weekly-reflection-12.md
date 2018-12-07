@@ -20,7 +20,7 @@ The flag of England is the red and white cross in the middle. The Scottish and I
 
 The rest of the flag is made up of different stars. The main star is called the Commonwealth star, a 7-pointed star under the Union Jack. Scattered throughout are the 7-pointed Alpha, Beta, Delta and Gamma Crucis stars. There is one 5-pointed star, the Epsilon Cruius.
 
-# Part 2 - Questions and Challenges
+## Part 2 - Questions and Challenges
 *When I was constructing this flag, I had a few challenges.
 
 **1. What are some questions you had?**
