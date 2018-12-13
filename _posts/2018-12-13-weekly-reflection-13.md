@@ -13,4 +13,4 @@ Last week I talked about the flag I was creating, which is the Australian Flag. 
  
 <h1> Part 1: Thinking About the Flag </h1>
 Before I created the flag, I used this image. 
-![Flag of Australia Diagram](/img/diagram1/)
+![Flag of Australia Diagram](/img/diagram1.png)
