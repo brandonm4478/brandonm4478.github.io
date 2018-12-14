@@ -34,7 +34,14 @@ Some challenges I had during the project were:
 
 As I have finished, I do not have any challenges anymore.
 
-2c.
+**1c. What are some opportunites you got during the project?**  
+Some opportunities I got during the project were:
+- I learned about how to scale an image.
+- I further expanded my understanding of ratios.
+- I learned new functions like radial-star and overlay/align. 
+
+**2. What are you looking forward to doing next week?**  
+Next week I am looking forward to constructing a physical version of my flag. I am also changing some things inside the program, but I am not looking towards that because it will be tedious and repetitive.
 
 ```scheme
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
