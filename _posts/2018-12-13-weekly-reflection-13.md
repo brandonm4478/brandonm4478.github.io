@@ -7,6 +7,13 @@ date: 2018-12-13
 This learning blog will focus on the documentation of my Flag Project. The Flag Project is a program on the website WeScheme. Your task is to create a scaleable verison of a assigned Flag. 
 
 My flag has a lot of code for it. Here is the code now.
+
+There are coments inside the code that document what each part means. These comments will eventually be transfered to another document and simpler comments will be inserted.
+
+The way the program works is that if you change the value of australian-scale, it will multiply the flag's size by that number. Here is what the flag looks like at a scale of 1 (ratio 1:2).
+![Flag of Australia](/img/Flag_of_Australia.png)
+
+
 ```scheme
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;; FLAG OF AUSTRALIA PROJECT ;;;;;;;;;;;;;;;
@@ -114,6 +121,3 @@ My flag has a lot of code for it. Here is the code now.
 (text "Real Australia Flag" (* 50 australian-scale) (make-color 0 0 139))
 (scale (* australian-scale 0.47) (bitmap/url "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg"))
 ```
-
-There are coments inside the code that document what each part means.
-
