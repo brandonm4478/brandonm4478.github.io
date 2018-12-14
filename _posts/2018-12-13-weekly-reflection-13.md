@@ -17,7 +17,7 @@ The way the program works is that if you change the value of australian-scale, i
 <h1>Part 2: Reflection</h1>
 I will now answer some reflection questions about this project.
 
-1a. What are some questions you had during the project or currently have?
+**1a. What are some questions you had during the project or currently have?**  
 Some questions I had during the project were:
 - How do I scale my image?
 - How do I make 7-pointed stars?
@@ -27,10 +27,14 @@ Some questions I have now:
 - Do I need to change everything into variables or can I keep the program as is?
 - Is there any way to link two programs together. For example, if I have the code for the flag in one program, can I link it to another program and put the variable that makes the flag appear (FLAG) and will it appear without any code being there?
 
-1b. What are some challenges you had during the project or currently have?
+**1b. What are some challenges you had during the project or currently have?**  
 Some challenges I had during the project were:
 - The function I was using for 7-pointed stars was not making the stars look proper. To get around this I switched from the star-polygon function to the radial-star function.
-- 
+- There was a stripe I had in the Union Jack that ended at one height, disappeared, and started again at a different height that didn't make sense. I tried to make this one long rectangle, but that did not work. I had to make two rectangles for each of those stripes.
+
+As I have finished, I do not have any challenges anymore.
+
+2c.
 
 ```scheme
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
