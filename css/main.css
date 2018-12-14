@@ -126,3 +126,7 @@ code {
 .c1, .cm { /* Comments */
     color: #DEDCD1;
 }
+
+.cm { /* Parenthesis and stuff */
+    color: #4D4D4D;
+}
