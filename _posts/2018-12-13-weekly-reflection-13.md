@@ -122,6 +122,7 @@ My flag has a lot of code for it. Here is the code now.
 There are coments inside the code that document what each part means. These comments will eventually be transfered to another document and simpler comments will be inserted.
 
 The way the program works is that if you change the value of australian-scale, it will multiply the flag's size by that number. Here is what the flag looks like at a scale of 1 (ratio 1:2).
+
 ![Flag of Australia](/img/Flag_of_Australia.png)
 
 <h1>Part 2: Reflection</h1>
