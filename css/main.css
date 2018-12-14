@@ -84,9 +84,6 @@ code {
 .o { /* Operators */
     color: #F92672;
 }
-.p { /* Brackets */
-    color: whitesmoke;
-}
 
 .k { /* Type */
     color: #F92672;
@@ -127,6 +124,6 @@ code {
     color: #DEDCD1;
 }
 
-.cm { /* Parenthesis and stuff */
+.p { /* Parenthesis and stuff */
     color: #4D4D4D;
 }
