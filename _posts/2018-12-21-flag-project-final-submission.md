@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Flag Project - Final Submission"
