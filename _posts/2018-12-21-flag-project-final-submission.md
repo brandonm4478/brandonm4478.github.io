@@ -5,24 +5,26 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+# Flag of _Australia_ by _Brandon Morgenstein_
 
-## Describe your program
+## Program Description
+**1. What country did you design for?**  
+I designed my flag for Australia.
+  
+**2. What grade do you expect?**  
+I expect a 3 out of 4 because while my flag is scaleable and geometrically accurate, it does not 100% use definitions.
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
-
-## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
+## Current program output
 
 * * *
-![Flag](/images/final-flag.png)
+![Flag of Australia - Final](/img/Flag_of_Australia_final.png)
 * * *
 
-## Describe your process.
+## Development Process
+**1. What are some questions, strategies, help from peers or teachers, or thinking that got you to this point?**  
+**1a. Questions**
+
+
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
