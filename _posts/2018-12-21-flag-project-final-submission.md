@@ -34,7 +34,7 @@ I got help from Mr. Allatta. He helped teach me how to scale an image, and he he
 
 ## Explaining the Code
 * * *
-```
+```scheme
 (define FLAG1 (overlay/align "left" "top"
                              UNION
                              BACKDROP))
@@ -71,7 +71,7 @@ The bottom part of the code (seperated by a line of comments) is for the stars. 
 This code is independent from the rest of the flag. While it creates the stars for the flag, by itself it only creates stars.
 
 ## Program code
-```
+```scheme
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;; FLAG OF AUSTRALIA PROJECT ;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
